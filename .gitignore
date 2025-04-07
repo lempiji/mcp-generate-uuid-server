@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/mcp-generate-uuid-server
+mcp-generate-uuid-server.so
+mcp-generate-uuid-server.dylib
+mcp-generate-uuid-server.dll
+mcp-generate-uuid-server.a
+mcp-generate-uuid-server.lib
+mcp-generate-uuid-server-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

@@ -1,0 +1,6 @@
+name "mcp-generate-uuid-server"
+description "A minimal D application."
+authors "lempiji"
+copyright "Copyright © 2025, lempiji"
+license "MIT"
+dependency "mcp" version="~>1.0.0"
